@@ -1,0 +1,13 @@
+# Core Machine Learning & GPU dependencies
+tensorflow[and-cuda]==2.21.0
+keras>=3.0.0
+numpy>=1.26.0
+
+# Data processing and visualization
+pandas>=2.0.0
+matplotlib>=3.8.0
+pillow>=10.0.0
+opencv-python>=4.8.0
+plotly>=5.0.0
+nbformat>=4.2.0
+pydot>=3.0.0
